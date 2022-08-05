@@ -6,7 +6,7 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
  
 
-💪 Language and Skills：
+💪 Language and Tools：
 <div align="center">
 <a href="https://img.shields.io/badge/Java-lightgrey">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-lightgrey" />
