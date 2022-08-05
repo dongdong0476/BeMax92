@@ -6,10 +6,11 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>  
 💪 比较熟悉的技术：
+ 
 <div align="center">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+ <a href="https://img.shields.io/badge/-java-yellowe">
+  <img align="center" alt="java" src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" />
+</a>
 </div>
 🚀推荐的开源项目:  
   <!-- 比较好的开源项目卡片 -->
@@ -20,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeMax92&repo=Affine&theme=blue&hide_border=true" /></a>
 </div>
 💬 我的一些想法：
-  
+
 🧰 近期代码贡献图:  
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/BeMax92/BeMax92/contribution-snake/github-contribution-grid-snake.svg" /></div>
