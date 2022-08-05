@@ -6,7 +6,3 @@
 ![Java](https://img.shields.io/badge/Java-orange)
 
 ![](https://github-readme-stats.vercel.app/api?username=BeMax92)
-
-<a href="https://github.com/BeMax92">
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeMax92" />
-</a>
