@@ -1,12 +1,12 @@
 <!-- 访客数统计徽标 -->
 <div align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=BeMax92" alt="访客统计" /></div>
- Hi there 👋，I am a software engineer from China. I like programming and learning new things.
+ Hi guys 👋，I am a software engineer from China. I like coding and learning new things.
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
  
 
-💪 比较熟悉的技术：
+💪 language and Skills：
 <div align="center">
 <a href="https://img.shields.io/badge/Java-lightgrey">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-lightgrey" />
@@ -37,7 +37,7 @@
 </a>
 </div>
 
-🚀 推荐的开源项目:  
+🚀 Recommended Repositories:  
   <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/BeMax92/java-sql-generator">
