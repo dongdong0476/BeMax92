@@ -4,9 +4,9 @@
   <div> </div
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>  
-💪 比较熟悉的技术：
  
+
+💪 比较熟悉的技术：
 <div align="center">
 <a href="https://img.shields.io/badge/Java-lightgrey">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-lightgrey" />
@@ -36,6 +36,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Mybatis-yellow" />
 </a>
 </div>
+
 🚀 推荐的开源项目:  
   <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -44,6 +45,7 @@
 <a href="https://github.com/BeMax92/Affine">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeMax92&repo=Affine&theme=blue&hide_border=true" /></a>
 </div>
+
 📊 个人项目数据：
 <div>
   <a href="https://github.com/BeMax92">
