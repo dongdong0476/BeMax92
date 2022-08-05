@@ -1,6 +1,3 @@
-### Hey guys 👋
-
-
 
 <a href="https://github.com/BeMax92">
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeMax92&show_icons=true&theme=buefy&include_all_commits=true" />
