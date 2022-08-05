@@ -20,10 +20,12 @@
 <a href="https://github.com/BeMax92/Affine">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeMax92&repo=Affine&theme=blue&hide_border=true" /></a>
 </div>
-💬 我的一些想法：
-
-🧰 近期代码贡献图:  
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/BeMax92/BeMax92/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-
+💬 个人项目数据：
+<div>
+  <a href="https://github.com/BeMax92">
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeMax92&show_icons=true&theme=buefy&include_all_commits=true" />
+</a>
+<a href="https://github.com/BeMax92">
+  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeMax92" />
+</a>
+</div>
