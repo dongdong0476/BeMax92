@@ -1,7 +1,7 @@
 <!-- 访客数统计徽标 -->
 <div align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=BeMax92" alt="访客统计" /></div>
-  <div> </div
+ Hi there 👋，I am a software engineer from China. I like programming and learning new things.
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
  
